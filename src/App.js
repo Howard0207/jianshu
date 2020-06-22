@@ -9,6 +9,7 @@ import Home from './pages/home'
 import Detail from './pages/detail/loadable'
 import Login from './pages/login'
 import Write from './pages/write'
+// test auto release
 class App extends Component {
     render() {
         return (
